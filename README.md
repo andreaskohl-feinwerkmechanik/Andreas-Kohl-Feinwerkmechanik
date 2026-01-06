@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Andreas Kohl Feinwerkmechanik</title>
+    <title>Andreas Kohl Feinwerkmechanik+</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
