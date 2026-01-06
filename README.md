@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Andreas Kohl Feinwerkmechanik+</title>
+    <title>Andreas Kohl Feinwerkmechanik</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
@@ -36,7 +36,7 @@
 <body>
 
 <header>
-    <h1>Andreas Kohl Feinwerkmechanik</h1>
+    <h1>Andreas Kohl Feinwerkmechanik+</h1>
     <p>Präzise feinwerkmechanische Fertigung – regional & deutschlandweit</p>
 </header>
 
