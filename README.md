@@ -36,7 +36,7 @@
 <body>
 
 <header>
-    <h1>Andreas Kohl Feinwerkmechanik+</h1>
+    <h1>Andreas Kohl Feinwerkmechanik</h1>
     <p>Präzise feinwerkmechanische Fertigung – regional & deutschlandweit</p>
 </header>
 
@@ -65,9 +65,9 @@
 <section>
     <h2>Kontakt</h2>
     <p>
-        <strong>Andreas Kohl Feinwerkmechanik</strong><br>
+        <strong>Andreas Kohl</strong><br>
         Telefon: (bitte eintragen)<br>
-        E-Mail: (bitte eintragen)<br><br>
+        E-Mail: (akf@dg-email.de)<br><br>
         Aufträge werden regional sowie deutschlandweit angenommen.
     </p>
 </section>
