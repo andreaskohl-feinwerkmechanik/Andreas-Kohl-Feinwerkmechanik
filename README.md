@@ -65,9 +65,19 @@
     <h2>Kontakt</h2>
     <p>
         <strong>Andreas Kohl</strong><br>
-        Telefon: (bitte eintragen)<br>
+        Telefon: (0176-23657455)<br>
         E-Mail: (akf@dg-email.de)<br><br>
         Aufträge werden regional sowie deutschlandweit angenommen.
+    </p>
+</section>
+
+<section>
+    <h2>Versand</h2>
+    <p>
+        <strong>Weltweiter Versand nach Anfrage</strong><br>
+        DHL
+        Hermes
+        oder nach Kundenwunsch!
     </p>
 </section>
 
