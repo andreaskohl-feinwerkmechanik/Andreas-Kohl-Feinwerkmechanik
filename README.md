@@ -36,31 +36,22 @@
 
 <header>
     <h1>Andreas Kohl Feinwerkmechanik</h1>
-    <p>Präzise feinwerkmechanische Fertigung – regional & deutschlandweit</p>            <html lang="de">
-</header>                                                                                <head>
-                                                                                        <meta charset="UTF-8">
-<section>                                                                               <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h2>Leistungen</h2>                                                                 <title>Kontakt</title>
-    <ul>                                                                                </head>
-        <li>Feinwerkmechanische Einzelteilfertigung</li>                                <body>
-        <li>Dreh- und Fräsarbeiten</li>                                                 <h1>Kontakt</h1>
+    <p>Präzise feinwerkmechanische Fertigung – regional & deutschlandweit</p>           
+</header>                                                                               
+                                                                                   
+<section>                                                                              
+    <h2>Leistungen</h2>                                                               
+    <ul>                                                                              
+        <li>Feinwerkmechanische Einzelteilfertigung</li>   
+        <li>Dreh- und Fräsarbeiten</li>                                                
         <li>Kleinserienfertigung</li>                                                    
         <li>Sonderanfertigungen nach Zeichnung</li>                                    
         <li>Reparaturen und Instandsetzung</li>                                        
         <li>Prototypenbau</li>                                                        
     </ul>                                                                                
 </section>                                                                            
-            
-                                                                                        <h2>Kontaktinfo</h2>
-                                                                                        <p><strong>Name:</strong> Dein Name oder Firmenname</p>
-                                                                                        <p><strong>Adresse:</strong> Deine Straße, PLZ, Ort</p>
-                                                                                        <p><strong>Telefon:</strong> +49 ...</p>
-                                                                                        <p><strong>E-Mail:</strong> info@deinedomain.de</p>
 
-                                                                                        <h2>Kontaktformular</h2>
-                                                                                        <form action="send.php" method="POST">
-                                                                                        <label for="name">Name:</label><br>
-                                                                                        <input type="text" id="name" name="name" required><br>
+
 
                                                                                         <label for="email">E-Mail:</label><br>
                                                                                         <input type="email" id="email" name="email" required><br>
