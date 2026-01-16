@@ -51,6 +51,46 @@
     </ul>
 </section>
 
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontakt</title>
+</head>
+<body>
+    <h1>Kontakt</h1>
+
+    <h2>Kontaktinfo</h2>
+    <p><strong>Name:</strong> Dein Name oder Firmenname</p>
+    <p><strong>Adresse:</strong> Deine Straße, PLZ, Ort</p>
+    <p><strong>Telefon:</strong> +49 ...</p>
+    <p><strong>E-Mail:</strong> info@deinedomain.de</p>
+
+    <h2>Kontaktformular</h2>
+    <form action="send.php" method="POST">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" required><br>
+
+        <label for="email">E-Mail:</label><br>
+        <input type="email" id="email" name="email" required><br>
+
+        <label for="message">Nachricht:</label><br>
+        <textarea id="message" name="message" required></textarea><br>
+
+        <button type="submit">Absenden</button>
+    </form>
+
+    <footer>
+        <p><a href="impressum.html">Impressum</a> | <a href="datenschutz.html">Datenschutz</a></p>
+    </footer>
+</body>
+</html>
+
+
+
+
 <section>
     <h2>Über das Unternehmen</h2>
     <p>
