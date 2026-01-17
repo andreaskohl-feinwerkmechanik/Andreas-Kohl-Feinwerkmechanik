@@ -61,11 +61,7 @@
 <body>
     <h1>Kontakt</h1>
 
-    <h2>Kontaktinfo</h2>
-    <p><strong>Name:</strong> Dein Name oder Firmenname</p>
-    <p><strong>Adresse:</strong> Deine Straße, PLZ, Ort</p>
-    <p><strong>Telefon:</strong> +49 ...</p>
-    <p><strong>E-Mail:</strong> info@deinedomain.de</p>
+   
 
     <h2>Kontaktformular</h2>
     <form action="send.php" method="POST">
@@ -81,8 +77,13 @@
         <button type="submit">Absenden</button>
 
 
-</body>
-</html>
+<section>
+    <h2>Versand</h2>
+    <p>
+        <strong>Weltweiter Versand nach Anfrage</strong><br>
+        DHL, Hermes oder nach Kundenwunsch!
+    </p>
+</section>
 
 
 <section>
@@ -95,23 +96,6 @@
     </p>
 </section>
 
-<section>
-    <h2>Kontakt</h2>
-    <p>
-        <strong>Andreas Kohl</strong><br>
-        Telefon: 0176-23657455<br>
-        E-Mail: akf@dg-email.de<br><br>
-        Aufträge werden regional sowie deutschlandweit angenommen.
-    </p>
-</section>
-
-<section>
-    <h2>Versand</h2>
-    <p>
-        <strong>Weltweiter Versand nach Anfrage</strong><br>
-        DHL, Hermes oder nach Kundenwunsch!
-    </p>
-</section>
 
 <footer>
     <p>
