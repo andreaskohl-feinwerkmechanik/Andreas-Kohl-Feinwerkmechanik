@@ -81,9 +81,6 @@
         <button type="submit">Absenden</button>
     </form>
 
-    <footer>
-        <p><a href="impressum.html">Impressum</a> | <a href="datenschutz.html">Datenschutz</a></p>
-    </footer>
 </body>
 </html>
 
