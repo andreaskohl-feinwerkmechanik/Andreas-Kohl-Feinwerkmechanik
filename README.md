@@ -79,7 +79,7 @@
         <textarea id="message" name="message" required></textarea><br>
 
         <button type="submit">Absenden</button>
-    </form>
+
 
 </body>
 </html>
